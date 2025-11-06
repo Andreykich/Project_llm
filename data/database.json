@@ -1,0 +1,211 @@
+{
+  "business_trends": [
+    {
+      "industry": "IT",
+      "trend": "Переход на гибридный формат работы",
+      "description": "Извлечено с https://habr.com/ru/companies/domclick/articles/928600/",
+      "sources": [
+        "https://habr.com/ru/companies/domclick/articles/928600/"
+      ],
+      "confidence": 0.85,
+      "id": 1,
+      "created_at": "2025-10-29T21:20:54.162554"
+    },
+    {
+      "industry": "IT",
+      "trend": "Повышенное внимание к soft-skills (бизнес-мышление, понимание продукта, навыки аргументации)",
+      "description": "Извлечено с https://habr.com/ru/companies/domclick/articles/928600/",
+      "sources": [
+        "https://habr.com/ru/companies/domclick/articles/928600/"
+      ],
+      "confidence": 0.85,
+      "id": 2,
+      "created_at": "2025-10-29T21:20:54.168641"
+    },
+    {
+      "industry": "IT",
+      "trend": "Активное внедрение AI в процессы найма и работы",
+      "description": "Извлечено с https://habr.com/ru/companies/domclick/articles/928600/",
+      "sources": [
+        "https://habr.com/ru/companies/domclick/articles/928600/"
+      ],
+      "confidence": 0.85,
+      "id": 3,
+      "created_at": "2025-10-29T21:20:54.177003"
+    },
+    {
+      "industry": "IT",
+      "trend": "Концентрация компаний на прибыльных проектах и оптимизация ресурсов",
+      "description": "Извлечено с https://habr.com/ru/companies/domclick/articles/928600/",
+      "sources": [
+        "https://habr.com/ru/companies/domclick/articles/928600/"
+      ],
+      "confidence": 0.85,
+      "id": 4,
+      "created_at": "2025-10-29T21:20:54.184775"
+    },
+    {
+      "industry": "IT",
+      "trend": "Рост конкуренции среди IT-специалистов",
+      "description": "Извлечено с https://habr.com/ru/companies/domclick/articles/928600/",
+      "sources": [
+        "https://habr.com/ru/companies/domclick/articles/928600/"
+      ],
+      "confidence": 0.85,
+      "id": 5,
+      "created_at": "2025-10-29T21:20:54.193038"
+    },
+    {
+      "industry": "IT",
+      "trend": "Переход на гибридный формат работы",
+      "description": "Извлечено с https://habr.com/ru/companies/domclick/articles/928600/",
+      "sources": [
+        "https://habr.com/ru/companies/domclick/articles/928600/"
+      ],
+      "confidence": 0.75,
+      "id": 6,
+      "created_at": "2025-11-04T17:15:55.887535"
+    },
+    {
+      "industry": "IT",
+      "trend": "Повышенное внимание к soft-skills (мягким навыкам)",
+      "description": "Извлечено с https://habr.com/ru/companies/domclick/articles/928600/",
+      "sources": [
+        "https://habr.com/ru/companies/domclick/articles/928600/"
+      ],
+      "confidence": 0.75,
+      "id": 7,
+      "created_at": "2025-11-04T17:15:55.890535"
+    },
+    {
+      "industry": "IT",
+      "trend": "Активное использование AI в процессах найма",
+      "description": "Извлечено с https://habr.com/ru/companies/domclick/articles/928600/",
+      "sources": [
+        "https://habr.com/ru/companies/domclick/articles/928600/"
+      ],
+      "confidence": 0.75,
+      "id": 8,
+      "created_at": "2025-11-04T17:15:55.893022"
+    },
+    {
+      "industry": "IT",
+      "trend": "Переизбыток IT-специалистов на рынке",
+      "description": "Извлечено с https://habr.com/ru/companies/domclick/articles/928600/",
+      "sources": [
+        "https://habr.com/ru/companies/domclick/articles/928600/"
+      ],
+      "confidence": 0.75,
+      "id": 9,
+      "created_at": "2025-11-04T17:15:55.895285"
+    },
+    {
+      "industry": "IT",
+      "trend": "Сокращение найма и перераспределение ресурсов на прибыльные проекты",
+      "description": "Извлечено с https://habr.com/ru/companies/domclick/articles/928600/",
+      "sources": [
+        "https://habr.com/ru/companies/domclick/articles/928600/"
+      ],
+      "confidence": 0.75,
+      "id": 10,
+      "created_at": "2025-11-04T17:15:55.898301"
+    },
+    {
+      "industry": "IT",
+      "trend": "Переход на гибридный формат работы",
+      "description": "Извлечено с https://habr.com/ru/companies/domclick/articles/928600/",
+      "sources": [
+        "https://habr.com/ru/companies/domclick/articles/928600/"
+      ],
+      "confidence": 0.75,
+      "id": 11,
+      "created_at": "2025-11-04T17:16:42.054229"
+    },
+    {
+      "industry": "IT",
+      "trend": "Приоритет soft-skills над техническими навыками",
+      "description": "Извлечено с https://habr.com/ru/companies/domclick/articles/928600/",
+      "sources": [
+        "https://habr.com/ru/companies/domclick/articles/928600/"
+      ],
+      "confidence": 0.75,
+      "id": 12,
+      "created_at": "2025-11-04T17:16:42.073656"
+    },
+    {
+      "industry": "IT",
+      "trend": "Использование AI в процессах найма",
+      "description": "Извлечено с https://habr.com/ru/companies/domclick/articles/928600/",
+      "sources": [
+        "https://habr.com/ru/companies/domclick/articles/928600/"
+      ],
+      "confidence": 0.75,
+      "id": 13,
+      "created_at": "2025-11-04T17:16:42.077657"
+    },
+    {
+      "industry": "IT",
+      "trend": "Переизбыток IT-специалистов на рынке",
+      "description": "Извлечено с https://habr.com/ru/companies/domclick/articles/928600/",
+      "sources": [
+        "https://habr.com/ru/companies/domclick/articles/928600/"
+      ],
+      "confidence": 0.75,
+      "id": 14,
+      "created_at": "2025-11-04T17:16:42.081652"
+    },
+    {
+      "industry": "IT",
+      "trend": "Сокращение нерентабельных проектов в big tech",
+      "description": "Извлечено с https://habr.com/ru/companies/domclick/articles/928600/",
+      "sources": [
+        "https://habr.com/ru/companies/domclick/articles/928600/"
+      ],
+      "confidence": 0.75,
+      "id": 15,
+      "created_at": "2025-11-04T17:16:42.085115"
+    }
+  ],
+  "success_stories": [],
+  "market_data": [],
+  "parsed_sources": [
+    {
+      "type": "telegram_query",
+      "user_id": 5128241823,
+      "query": "Хочу открыть кофейню в Москве",
+      "response_preview": "# Анализ ситуации\n\nНа основе анализа рынка кофеен в Москве выявлены следующие ключевые особенности:\n- Высокая конкуренция: в Москве работает более 3000 кофеен, включая сетевые (Starbucks, Кофе Хауз) и...",
+      "parsed_at": "2025-11-03T19:40:20.170659"
+    },
+    {
+      "type": "user_query",
+      "data": {
+        "industry": "общественное питание/досуг",
+        "idea": "антикафе с регулярными мероприятиями как изюминкой",
+        "city": "Уфа",
+        "budget": "до 400 тысяч рублей",
+        "experience": "нулевой",
+        "target_audience": "молодежь 20-25 лет",
+        "special_requirements": "уютное место для ежедневного посещения с еженедельными интересными мероприятиями для привлечения новых посетителей, рассмотрение разнообразных тематических концепций"
+      },
+      "response_preview": "# Анализ ситуации\n\n**1. Анализ трендов в сфере антикафе:**\n- В России антикафе остаются популярными, особенно среди молодежи, как альтернатива традиционным кафе\n- Ключевой тренд - создание \"третьего м...",
+      "parsed_at": "2025-11-04T17:30:05.737349"
+    },
+    {
+      "type": "telegram_user_query",
+      "user_id": 1416241082,
+      "data": {
+        "industry": "развлечения",
+        "idea": "картинг-центр",
+        "city": "Санкт-Петербург",
+        "budget": "15 млн рублей",
+        "experience": "нет опыта в сфере развлечений",
+        "target_audience": "дети, молодёжь, студенты, корпоративные клиенты, спортсмены, любители",
+        "special_requirements": "большая гоночная трасса с разными сложными заворотами, качественный дизайн"
+      },
+      "response_preview": "# Анализ ситуации\n\nСанкт-Петербург - город с населением свыше 5 млн человек, развитой туристической инфраструктурой и активной молодежной аудиторией. Картинг-центр соответствует запросам целевой аудит...",
+      "parsed_at": "2025-11-04T19:56:16.233362"
+    }
+  ],
+  "created_at": "2025-10-29T20:55:52.861738",
+  "updated_at": "2025-11-04T19:56:16.233362"
+}
