@@ -14,8 +14,8 @@ class BaseAgent:
     Улучшения (на основе Лекции 9 - Function Calling & MCP):
     - Function Calling: LLM может самостоятельно вызывать инструменты
     - Явный контроль над инструментами
-    - Structured output validation
-    - Chain-of-Thought reasoning
+    - Валидация структурированного вывода
+    - Рассуждения в стиле Chain-of-Thought
     """
     
     def __init__(self, name: str, system_prompt: str, tools: Optional[List[Dict[str, Any]]] = None):
@@ -26,7 +26,7 @@ class BaseAgent:
         )
         self.system_prompt = system_prompt
         self.tools = tools or []
-        self.thinking_process = []  # Для отслеживания мышления
+        self.thinking_process = []  # Для отслеживания процесса мышления
         
         logger.info(f"Инициализирован агент: {name}")
     
@@ -36,8 +36,8 @@ class BaseAgent:
         
         Args:
             tool_name: Имя инструмента (для вызова)
-            tool_func: Python функция, которая выполняет инструмент
-            description: Описание для LLM что делает инструмент
+            tool_func: Python-функция, которая выполняет инструмент
+            description: Описание для LLM — что делает инструмент
             parameters: JSON Schema для параметров
         """
         tool_definition = {
@@ -50,7 +50,7 @@ class BaseAgent:
         }
         self.tools.append(tool_definition)
         
-        # Сохраняем маппинг имя -> функция
+        # Сохраняем маппинг: имя → функция
         if not hasattr(self, '_tool_implementations'):
             self._tool_implementations = {}
         self._tool_implementations[tool_name] = tool_func
@@ -61,17 +61,17 @@ class BaseAgent:
         """
         Вызывает LLM с поддержкой Function Calling.
         
-        Процесс (на основе Лекции 9, slide 5-6):
+        Процесс (на основе Лекции 9, слайды 5-6):
         1. Отправляем промпт + определения инструментов
-        2. LLM решает какие инструменты нужны
+        2. LLM решает, какие инструменты нужны
         3. Мы выполняем эти инструменты
-        4. Отправляем результаты обратно LLM
+        4. Отправляем результаты обратно в LLM
         5. LLM генерирует финальный ответ
         
         Args:
             prompt: Основной промпт для LLM
             temperature: Температура генерации
-            max_retries: Максимум повторных попыток
+            max_retries: Максимальное количество повторных попыток
             
         Returns:
             Dict с результатом: {'response': str, 'tool_calls': list, 'reasoning': str}
@@ -102,7 +102,7 @@ class BaseAgent:
                 "raw_response": response
             }
             
-            # Обработка tool_calls если LLM их выбрал
+            # Обработка tool_calls, если LLM их выбрал
             if response.choices[0].finish_reason == "tool_calls" and response.choices[0].message.tool_calls:
                 logger.info(f"[{self.name}] LLM выбрал инструменты. Обработка...")
                 
@@ -140,7 +140,7 @@ class BaseAgent:
                         logger.warning(f"Инструмент {tool_name} не найден")
                         tool_results.append({
                             "tool_call_id": tool_call.id,
-                            "result": f"Инструмент {tool_name} не доступен",
+                            "result": f"Инструмент {tool_name} недоступен",
                             "success": False
                         })
                 
@@ -167,9 +167,9 @@ class BaseAgent:
                 result["reasoning"] = f"Использовано {len(tool_calls)} инструментов для анализа"
                 
             else:
-                # Нет tool_calls, просто текстовый ответ
+                # Нет tool_calls — просто текстовый ответ
                 result["response"] = response.choices[0].message.content
-                result["reasoning"] = "Прямой ответ без инструментов"
+                result["reasoning"] = "Прямой ответ без использования инструментов"
             
             logger.info(f"[{self.name}] Успешный вызов LLM")
             return result
