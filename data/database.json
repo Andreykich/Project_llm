@@ -164,10 +164,766 @@
       "confidence": 0.75,
       "id": 15,
       "created_at": "2025-11-04T17:16:42.085115"
+    },
+    {
+      "industry": "FinTech",
+      "trend": "Рост BNPL и финансовых супераппов",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://rb.ru/",
+        "https://habr.com/ru/"
+      ],
+      "confidence": 0.77,
+      "city": null,
+      "id": 16,
+      "created_at": "2025-12-18T11:19:02.873019"
+    },
+    {
+      "industry": "FinTech",
+      "trend": "Рост BNPL и финансовых супераппов",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://habr.com/ru/",
+        "https://www.forbes.ru/"
+      ],
+      "confidence": 0.7,
+      "city": "Краснодар",
+      "id": 17,
+      "created_at": "2025-12-18T11:19:02.873051"
+    },
+    {
+      "industry": "FinTech",
+      "trend": "Рост BNPL и финансовых супераппов",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://rb.ru/",
+        "https://vc.ru/"
+      ],
+      "confidence": 0.79,
+      "city": "Воронеж",
+      "id": 18,
+      "created_at": "2025-12-18T11:19:02.873069"
+    },
+    {
+      "industry": "FinTech",
+      "trend": "Рост BNPL и финансовых супераппов",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://habr.com/ru/",
+        "https://tass.ru/"
+      ],
+      "confidence": 0.62,
+      "city": "Краснодар",
+      "id": 19,
+      "created_at": "2025-12-18T11:19:02.873083"
+    },
+    {
+      "industry": "EdTech",
+      "trend": "Микро-обучение и корпоративные треки",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://tass.ru/",
+        "https://rb.ru/"
+      ],
+      "confidence": 0.65,
+      "city": null,
+      "id": 20,
+      "created_at": "2025-12-18T11:19:02.873094"
+    },
+    {
+      "industry": "EdTech",
+      "trend": "Микро-обучение и корпоративные треки",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://tass.ru/",
+        "https://rb.ru/"
+      ],
+      "confidence": 0.71,
+      "city": "Новосибирск",
+      "id": 21,
+      "created_at": "2025-12-18T11:19:02.873102"
+    },
+    {
+      "industry": "EdTech",
+      "trend": "Микро-обучение и корпоративные треки",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://rb.ru/",
+        "https://tass.ru/"
+      ],
+      "confidence": 0.7,
+      "city": "Санкт-Петербург",
+      "id": 22,
+      "created_at": "2025-12-18T11:19:02.873112"
+    },
+    {
+      "industry": "EdTech",
+      "trend": "Микро-обучение и корпоративные треки",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://www.rbc.ru/",
+        "https://habr.com/ru/"
+      ],
+      "confidence": 0.84,
+      "city": null,
+      "id": 23,
+      "created_at": "2025-12-18T11:19:02.873136"
+    },
+    {
+      "industry": "E-commerce",
+      "trend": "Быстрая доставка и нишевые маркетплейсы",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://habr.com/ru/",
+        "https://www.rbc.ru/"
+      ],
+      "confidence": 0.8,
+      "city": null,
+      "id": 24,
+      "created_at": "2025-12-18T11:19:02.873153"
+    },
+    {
+      "industry": "E-commerce",
+      "trend": "Быстрая доставка и нишевые маркетплейсы",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://www.forbes.ru/",
+        "https://www.rbc.ru/"
+      ],
+      "confidence": 0.75,
+      "city": "Новосибирск",
+      "id": 25,
+      "created_at": "2025-12-18T11:19:02.873164"
+    },
+    {
+      "industry": "E-commerce",
+      "trend": "Быстрая доставка и нишевые маркетплейсы",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://tass.ru/",
+        "https://habr.com/ru/"
+      ],
+      "confidence": 0.79,
+      "city": null,
+      "id": 26,
+      "created_at": "2025-12-18T11:19:02.873172"
+    },
+    {
+      "industry": "E-commerce",
+      "trend": "Быстрая доставка и нишевые маркетплейсы",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://habr.com/ru/",
+        "https://www.rbc.ru/"
+      ],
+      "confidence": 0.76,
+      "city": null,
+      "id": 27,
+      "created_at": "2025-12-18T11:19:02.873178"
+    },
+    {
+      "industry": "FoodTech",
+      "trend": "Подписки на готовую еду и dark-kitchen",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://habr.com/ru/",
+        "https://www.rbc.ru/"
+      ],
+      "confidence": 0.79,
+      "city": "Самара",
+      "id": 28,
+      "created_at": "2025-12-18T11:19:02.873185"
+    },
+    {
+      "industry": "FoodTech",
+      "trend": "Подписки на готовую еду и dark-kitchen",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://www.forbes.ru/",
+        "https://rb.ru/"
+      ],
+      "confidence": 0.78,
+      "city": "Воронеж",
+      "id": 29,
+      "created_at": "2025-12-18T11:19:02.873207"
+    },
+    {
+      "industry": "FoodTech",
+      "trend": "Подписки на готовую еду и dark-kitchen",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://www.rbc.ru/",
+        "https://habr.com/ru/"
+      ],
+      "confidence": 0.78,
+      "city": null,
+      "id": 30,
+      "created_at": "2025-12-18T11:19:02.873216"
+    },
+    {
+      "industry": "FoodTech",
+      "trend": "Подписки на готовую еду и dark-kitchen",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://vc.ru/",
+        "https://www.rbc.ru/"
+      ],
+      "confidence": 0.73,
+      "city": "Самара",
+      "id": 31,
+      "created_at": "2025-12-18T11:19:02.873223"
+    },
+    {
+      "industry": "Health & Wellness",
+      "trend": "Персональные планы здоровья и трекинг привычек",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://habr.com/ru/",
+        "https://www.forbes.ru/"
+      ],
+      "confidence": 0.74,
+      "city": "Москва",
+      "id": 32,
+      "created_at": "2025-12-18T11:19:02.873230"
+    },
+    {
+      "industry": "Health & Wellness",
+      "trend": "Персональные планы здоровья и трекинг привычек",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://tass.ru/",
+        "https://vc.ru/"
+      ],
+      "confidence": 0.77,
+      "city": null,
+      "id": 33,
+      "created_at": "2025-12-18T11:19:02.873237"
+    },
+    {
+      "industry": "Health & Wellness",
+      "trend": "Персональные планы здоровья и трекинг привычек",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://rb.ru/",
+        "https://tass.ru/"
+      ],
+      "confidence": 0.65,
+      "city": null,
+      "id": 34,
+      "created_at": "2025-12-18T11:19:02.873243"
+    },
+    {
+      "industry": "Health & Wellness",
+      "trend": "Персональные планы здоровья и трекинг привычек",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://tass.ru/",
+        "https://www.forbes.ru/"
+      ],
+      "confidence": 0.65,
+      "city": "Санкт-Петербург",
+      "id": 35,
+      "created_at": "2025-12-18T11:19:02.873250"
+    },
+    {
+      "industry": "GreenTech",
+      "trend": "Сервисы учета углеродного следа и переработки",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://www.forbes.ru/",
+        "https://tass.ru/"
+      ],
+      "confidence": 0.64,
+      "city": "Новосибирск",
+      "id": 36,
+      "created_at": "2025-12-18T11:19:02.873257"
+    },
+    {
+      "industry": "GreenTech",
+      "trend": "Сервисы учета углеродного следа и переработки",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://habr.com/ru/",
+        "https://vc.ru/"
+      ],
+      "confidence": 0.79,
+      "city": null,
+      "id": 37,
+      "created_at": "2025-12-18T11:19:02.873263"
+    },
+    {
+      "industry": "GreenTech",
+      "trend": "Сервисы учета углеродного следа и переработки",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://www.rbc.ru/",
+        "https://rb.ru/"
+      ],
+      "confidence": 0.65,
+      "city": null,
+      "id": 38,
+      "created_at": "2025-12-18T11:19:02.873269"
+    },
+    {
+      "industry": "GreenTech",
+      "trend": "Сервисы учета углеродного следа и переработки",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://tass.ru/",
+        "https://rb.ru/"
+      ],
+      "confidence": 0.67,
+      "city": "Екатеринбург",
+      "id": 39,
+      "created_at": "2025-12-18T11:19:02.873276"
+    },
+    {
+      "industry": "Local Services",
+      "trend": "Онлайн-запись и агрегаторы услуг на районе",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://rb.ru/",
+        "https://www.forbes.ru/"
+      ],
+      "confidence": 0.62,
+      "city": "Новосибирск",
+      "id": 40,
+      "created_at": "2025-12-18T11:19:02.873284"
+    },
+    {
+      "industry": "Local Services",
+      "trend": "Онлайн-запись и агрегаторы услуг на районе",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://vc.ru/",
+        "https://tass.ru/"
+      ],
+      "confidence": 0.64,
+      "city": "Новосибирск",
+      "id": 41,
+      "created_at": "2025-12-18T11:19:02.873290"
+    },
+    {
+      "industry": "Local Services",
+      "trend": "Онлайн-запись и агрегаторы услуг на районе",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://habr.com/ru/",
+        "https://vc.ru/"
+      ],
+      "confidence": 0.81,
+      "city": "Москва",
+      "id": 42,
+      "created_at": "2025-12-18T11:19:02.873297"
+    },
+    {
+      "industry": "Local Services",
+      "trend": "Онлайн-запись и агрегаторы услуг на районе",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://rb.ru/",
+        "https://tass.ru/"
+      ],
+      "confidence": 0.68,
+      "city": null,
+      "id": 43,
+      "created_at": "2025-12-18T11:19:02.873303"
+    },
+    {
+      "industry": "Creator Economy",
+      "trend": "Инструменты для монетизации контента",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://tass.ru/",
+        "https://www.forbes.ru/"
+      ],
+      "confidence": 0.71,
+      "city": null,
+      "id": 44,
+      "created_at": "2025-12-18T11:19:02.873310"
+    },
+    {
+      "industry": "Creator Economy",
+      "trend": "Инструменты для монетизации контента",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://www.rbc.ru/",
+        "https://tass.ru/"
+      ],
+      "confidence": 0.82,
+      "city": "Краснодар",
+      "id": 45,
+      "created_at": "2025-12-18T11:19:02.873317"
+    },
+    {
+      "industry": "Creator Economy",
+      "trend": "Инструменты для монетизации контента",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://www.forbes.ru/",
+        "https://rb.ru/"
+      ],
+      "confidence": 0.78,
+      "city": null,
+      "id": 46,
+      "created_at": "2025-12-18T11:19:02.873323"
+    },
+    {
+      "industry": "Creator Economy",
+      "trend": "Инструменты для монетизации контента",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://vc.ru/",
+        "https://tass.ru/"
+      ],
+      "confidence": 0.78,
+      "city": null,
+      "id": 47,
+      "created_at": "2025-12-18T11:19:02.873333"
+    },
+    {
+      "industry": "HR Tech",
+      "trend": "Автоматизация подбора и онбординга",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://rb.ru/",
+        "https://www.forbes.ru/"
+      ],
+      "confidence": 0.77,
+      "city": null,
+      "id": 48,
+      "created_at": "2025-12-18T11:19:02.873349"
+    },
+    {
+      "industry": "HR Tech",
+      "trend": "Автоматизация подбора и онбординга",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://www.rbc.ru/",
+        "https://vc.ru/"
+      ],
+      "confidence": 0.7,
+      "city": "Нижний Новгород",
+      "id": 49,
+      "created_at": "2025-12-18T11:19:02.873365"
+    },
+    {
+      "industry": "HR Tech",
+      "trend": "Автоматизация подбора и онбординга",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://www.rbc.ru/",
+        "https://vc.ru/"
+      ],
+      "confidence": 0.76,
+      "city": "Санкт-Петербург",
+      "id": 50,
+      "created_at": "2025-12-18T11:19:02.873378"
+    },
+    {
+      "industry": "HR Tech",
+      "trend": "Автоматизация подбора и онбординга",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://www.forbes.ru/",
+        "https://www.rbc.ru/"
+      ],
+      "confidence": 0.73,
+      "city": null,
+      "id": 51,
+      "created_at": "2025-12-18T11:19:02.873394"
+    },
+    {
+      "industry": "Logistics",
+      "trend": "Оптимизация последней мили",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://www.rbc.ru/",
+        "https://tass.ru/"
+      ],
+      "confidence": 0.81,
+      "city": null,
+      "id": 52,
+      "created_at": "2025-12-18T11:19:02.873410"
+    },
+    {
+      "industry": "Logistics",
+      "trend": "Оптимизация последней мили",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://tass.ru/",
+        "https://rb.ru/"
+      ],
+      "confidence": 0.77,
+      "city": null,
+      "id": 53,
+      "created_at": "2025-12-18T11:19:02.873417"
+    },
+    {
+      "industry": "Logistics",
+      "trend": "Оптимизация последней мили",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://habr.com/ru/",
+        "https://vc.ru/"
+      ],
+      "confidence": 0.6,
+      "city": "Екатеринбург",
+      "id": 54,
+      "created_at": "2025-12-18T11:19:02.873424"
+    },
+    {
+      "industry": "Logistics",
+      "trend": "Оптимизация последней мили",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://vc.ru/",
+        "https://www.forbes.ru/"
+      ],
+      "confidence": 0.67,
+      "city": null,
+      "id": 55,
+      "created_at": "2025-12-18T11:19:02.873430"
+    },
+    {
+      "industry": "AI Tools",
+      "trend": "Агенты для рутины в бизнесе",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://rb.ru/",
+        "https://www.forbes.ru/"
+      ],
+      "confidence": 0.75,
+      "city": "Тюмень",
+      "id": 56,
+      "created_at": "2025-12-18T11:19:02.873437"
+    },
+    {
+      "industry": "AI Tools",
+      "trend": "Агенты для рутины в бизнесе",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://rb.ru/",
+        "https://vc.ru/"
+      ],
+      "confidence": 0.65,
+      "city": null,
+      "id": 57,
+      "created_at": "2025-12-18T11:19:02.873444"
+    },
+    {
+      "industry": "AI Tools",
+      "trend": "Агенты для рутины в бизнесе",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://www.forbes.ru/",
+        "https://tass.ru/"
+      ],
+      "confidence": 0.75,
+      "city": null,
+      "id": 58,
+      "created_at": "2025-12-18T11:19:02.873450"
+    },
+    {
+      "industry": "AI Tools",
+      "trend": "Агенты для рутины в бизнесе",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://tass.ru/",
+        "https://www.forbes.ru/"
+      ],
+      "confidence": 0.8,
+      "city": null,
+      "id": 59,
+      "created_at": "2025-12-18T11:19:02.873456"
+    },
+    {
+      "industry": "Travel",
+      "trend": "Сбор туров и dynamic pricing",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://www.rbc.ru/",
+        "https://tass.ru/"
+      ],
+      "confidence": 0.78,
+      "city": null,
+      "id": 60,
+      "created_at": "2025-12-18T11:19:02.873464"
+    },
+    {
+      "industry": "Travel",
+      "trend": "Сбор туров и dynamic pricing",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://tass.ru/",
+        "https://www.rbc.ru/"
+      ],
+      "confidence": 0.62,
+      "city": null,
+      "id": 61,
+      "created_at": "2025-12-18T11:19:02.873471"
+    },
+    {
+      "industry": "Travel",
+      "trend": "Сбор туров и dynamic pricing",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://habr.com/ru/",
+        "https://vc.ru/"
+      ],
+      "confidence": 0.66,
+      "city": null,
+      "id": 62,
+      "created_at": "2025-12-18T11:19:02.873477"
+    },
+    {
+      "industry": "Travel",
+      "trend": "Сбор туров и dynamic pricing",
+      "description": "Извлечено с https://rb.ru/",
+      "sources": [
+        "https://www.forbes.ru/",
+        "https://tass.ru/"
+      ],
+      "confidence": 0.74,
+      "city": null,
+      "id": 63,
+      "created_at": "2025-12-18T11:19:02.873482"
     }
   ],
-  "success_stories": [],
-  "market_data": [],
+  "success_stories": [
+    {
+      "id": 1,
+      "industry": "E-commerce",
+      "product": "Нишевый маркетплейс",
+      "description": "Рост выручки через фокус на одной категории и комьюнити.",
+      "key_metrics": [
+        "CAC/LTV",
+        "Retention",
+        "Gross margin"
+      ],
+      "sources": [
+        "https://habr.com/ru/"
+      ],
+      "created_at": "2025-12-18T11:19:02.874117"
+    },
+    {
+      "id": 2,
+      "industry": "EdTech",
+      "product": "Онлайн-курс",
+      "description": "Запуск через валидацию спроса и продажи до записи контента.",
+      "key_metrics": [
+        "CAC/LTV",
+        "Retention",
+        "Gross margin"
+      ],
+      "sources": [
+        "https://tass.ru/"
+      ],
+      "created_at": "2025-12-18T11:19:02.874136"
+    },
+    {
+      "id": 3,
+      "industry": "Local Services",
+      "product": "Сервис записи",
+      "description": "Увеличение повторных заказов за счет подписки/абонементов.",
+      "key_metrics": [
+        "CAC/LTV",
+        "Retention",
+        "Gross margin"
+      ],
+      "sources": [
+        "https://tass.ru/"
+      ],
+      "created_at": "2025-12-18T11:19:02.874144"
+    },
+    {
+      "id": 4,
+      "industry": "FoodTech",
+      "product": "Dark kitchen",
+      "description": "Оптимизация меню по данным заказов и географии доставки.",
+      "key_metrics": [
+        "CAC/LTV",
+        "Retention",
+        "Gross margin"
+      ],
+      "sources": [
+        "https://habr.com/ru/"
+      ],
+      "created_at": "2025-12-18T11:19:02.874156"
+    },
+    {
+      "id": 5,
+      "industry": "GreenTech",
+      "product": "Переработка",
+      "description": "Партнерства с бизнесом и муниципалитетом для устойчивой экономики.",
+      "key_metrics": [
+        "CAC/LTV",
+        "Retention",
+        "Gross margin"
+      ],
+      "sources": [
+        "https://www.rbc.ru/"
+      ],
+      "created_at": "2025-12-18T11:19:02.874164"
+    }
+  ],
+  "market_data": [
+    {
+      "id": 1,
+      "industry": "FinTech",
+      "insight": "Доля безналичных платежей растет, пользователи предпочитают мобильные банки.",
+      "region": "Россия",
+      "sources": [
+        "https://www.rbc.ru/",
+        "https://www.forbes.ru/"
+      ],
+      "created_at": "2025-12-18T11:19:02.874478"
+    },
+    {
+      "id": 2,
+      "industry": "E-commerce",
+      "insight": "Растет спрос на доставку в день заказа и PUDO-пункты выдачи.",
+      "region": "Россия",
+      "sources": [
+        "https://rb.ru/",
+        "https://tass.ru/"
+      ],
+      "created_at": "2025-12-18T11:19:02.874497"
+    },
+    {
+      "id": 3,
+      "industry": "EdTech",
+      "insight": "Корпоративное обучение смещается к коротким модулям и практическим задачам.",
+      "region": "Россия",
+      "sources": [
+        "https://www.rbc.ru/",
+        "https://vc.ru/"
+      ],
+      "created_at": "2025-12-18T11:19:02.874506"
+    },
+    {
+      "id": 4,
+      "industry": "Local Services",
+      "insight": "Онлайн-запись увеличивает конверсию и снижает неявки через напоминания.",
+      "region": "Россия",
+      "sources": [
+        "https://rb.ru/",
+        "https://www.rbc.ru/"
+      ],
+      "created_at": "2025-12-18T11:19:02.874514"
+    },
+    {
+      "id": 5,
+      "industry": "AI Tools",
+      "insight": "Компании внедряют ассистентов для поддержки и аналитики, повышая продуктивность.",
+      "region": "Россия",
+      "sources": [
+        "https://rb.ru/",
+        "https://www.rbc.ru/"
+      ],
+      "created_at": "2025-12-18T11:19:02.874522"
+    }
+  ],
   "parsed_sources": [
     {
       "type": "telegram_query",
@@ -207,5 +963,5 @@
     }
   ],
   "created_at": "2025-10-29T20:55:52.861738",
-  "updated_at": "2025-11-04T19:56:16.233362"
+  "updated_at": "2025-12-18T11:19:02.874583"
 }

@@ -1,0 +1,67 @@
+{
+  "type": "object",
+  "required": [
+    "idea",
+    "target_audience",
+    "monetization",
+    "competitors",
+    "partners",
+    "mvp_plan",
+    "risks",
+    "metrics",
+    "sources"
+  ],
+  "properties": {
+    "idea": {
+      "type": "string"
+    },
+    "target_audience": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "monetization": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "competitors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "partners": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "mvp_plan": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "risks": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "metrics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

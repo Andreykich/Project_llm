@@ -1,0 +1,15 @@
+{
+  "n_runs": 50,
+  "n_cases": 50,
+  "repeats": 1,
+  "pass_rate_by_status_ok": 1.0,
+  "latency_sec": {
+    "mean": 443.196,
+    "p50": 61.167,
+    "p90": 1429.692,
+    "p95": 2546.638
+  },
+  "sections_coverage_mean": 0.083,
+  "sources_min2_rate": 0.0,
+  "sources_avg": 0
+}
